@@ -1,0 +1,48 @@
+🎯 Propósito y componentes
+El objetivo principal del equipo SOC es mantener la capacidad de:
+
+🛡️ Detectar y responder a incidentes de seguridad.
+Para lograrlo, utilizan soluciones de seguridad que:
+
+🔗 Integran la red y los sistemas de la empresa.
+📍 Los monitorean desde una ubicación centralizada.
+🔄 Este monitoreo continuo es esencial para detectar y responder a cualquier incidente de seguridad.
+
+🔍 Detección
+🕵️‍♂️ Detectar vulnerabilidades:
+Son debilidades en software o dispositivos que atacantes pueden explotar.
+🖥️ Ejemplo: Computadoras Windows sin parches contra vulnerabilidades conocidas.
+(Nota: Aunque no es tarea directa del SOC, estas vulnerabilidades afectan la seguridad empresarial).
+
+🚨 Detectar actividades no autorizadas:
+Ejemplo: Si un atacante usa las credenciales de un empleado para acceder al sistema.
+🗺️ Claves para detectarlo: pistas como la ubicación geográfica.
+
+📜 Detectar violaciones de políticas:
+Incumplimiento de reglas de seguridad, como:
+
+Descargar contenido pirateado.
+Enviar información confidencial de manera insegura.
+🔓 Detectar intrusiones:
+Accesos no autorizados a sistemas y redes, como:
+
+🖥️ Explotar una aplicación web.
+🦠 Infectar un equipo tras visitar un sitio malicioso.
+🛠️ Respuesta
+🤝 Apoyo en la respuesta a incidentes:
+Cuando se detecta un incidente, se toman medidas para:
+Minimizar su impacto.
+Analizar su causa raíz.
+💡 El equipo SOC colabora con el equipo de respuesta a incidentes para realizar estas acciones.
+
+🌟 Tres pilares de un SOC:
+👩‍💻 Personas: Equipo capacitado que gestiona incidentes.
+📝 Procesos: Procedimientos establecidos para guiar las acciones.
+🛠️ Tecnología: Herramientas necesarias para detectar y responder a incidentes.
+❓ Preguntas de lección:
+1️⃣ El equipo SOC descubre que un usuario no autorizado está intentando iniciar sesión en una cuenta.
+¿Qué capacidad del SOC es esta?
+👉 Detección
+
+2️⃣ ¿Cuáles son los tres pilares de un SOC?
+👉 Personas, Procesos y Tecnología.
