@@ -1,0 +1,9 @@
+🛡️ Este ejercicio práctico utiliza personas, procesos y tecnología y le brinda una guía práctica del rol de un analista de nivel 1 en el equipo SOC.  
+
+📜 Guión  
+
+Usted es el analista de nivel 1 del equipo SOC de su organización. Recibe una alerta que indica que se ha observado una actividad de escaneo de puertos en uno de los hosts de la red.  
+
+Tiene acceso a la solución SIEM, donde puede ver todos los registros asociados a esta alerta. Su tarea es analizar los registros individualmente y responder a las 5 preguntas que se indican a continuación.  
+
+📌 Nota: El equipo de evaluación de vulnerabilidad notificó al equipo SOC que estaban ejecutando una actividad de escaneo de puertos dentro de la red desde el host: `10.0.0.8`.  
