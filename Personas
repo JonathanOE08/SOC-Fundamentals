@@ -1,0 +1,41 @@
+👥 La importancia de las personas en un SOC
+A pesar de la automatización en las tareas de seguridad, las personas siguen siendo esenciales en un SOC.
+🛑 "Ruido" en el sistema: Las soluciones de seguridad generan demasiadas alertas, muchas de las cuales son irrelevantes.
+🧠 Intervención humana: Las personas identifican actividades realmente peligrosas y aseguran una respuesta rápida y eficiente.
+
+🎯 Funciones y responsabilidades del equipo SOC
+1️⃣ Analista de SOC (Nivel 1)
+🛡️ Primera línea de defensa.
+📋 Clasifican alertas básicas para identificar si son dañinas.
+📨 Reportan detecciones a través de los canales adecuados.
+
+2️⃣ Analista de SOC (Nivel 2)
+🔍 Realizan investigaciones más profundas.
+🔗 Correlacionan datos de múltiples fuentes para un análisis detallado.
+
+3️⃣ Analista de SOC (Nivel 3)
+🎯 Profesionales experimentados en búsqueda proactiva de amenazas.
+⚙️ Apoyan en la respuesta a incidentes graves:
+Contención.
+Erradicación.
+Recuperación.
+
+4️⃣ Ingeniero de Seguridad
+🛠️ Implementan y configuran soluciones de seguridad.
+✅ Garantizan su correcto funcionamiento.
+
+5️⃣ Ingeniero de Detección
+🛡️ Crea reglas de seguridad para detectar actividades dañinas.
+💻 En ocasiones, trabaja de forma dedicada en esta función.
+
+6️⃣ Gerente del SOC
+📊 Supervisa los procesos del equipo.
+🗣️ Mantiene comunicación con el CISO para informar sobre la postura y esfuerzos de seguridad.
+
+❓ Preguntas de lección
+1️⃣ ¿Es responsabilidad de quién se realiza la clasificación y presentación de informes de alertas?
+👉 Analista de SOC (Nivel 1).
+
+2️⃣ ¿Qué rol en el equipo SOC le permite trabajar de forma dedicada en el establecimiento de reglas para alertar sobre soluciones de seguridad?
+👉 Ingeniero de Detección.
+
