@@ -1,11 +1,13 @@
-# Centro de Operaciones de Seguridad (SOC)
+🌐 Centro de Operaciones de Seguridad (SOC)
+Un SOC (Centro de Operaciones de Seguridad) es una instalación dedicada que está a cargo de un equipo de expertos en seguridad. 
+Este equipo se encarga de:
 
-Un SOC (Centro de Operaciones de Seguridad) es una instalación dedicada operada por un equipo de seguridad especializado. Este equipo tiene como objetivo monitorear continuamente la red y los recursos de una organización e identificar actividades sospechosas para evitar daños. Este equipo trabaja las 24 horas del día, los siete días de la semana.
+Monitorear los sistemas de una organización.
+Analizar posibles amenazas de ciberseguridad.
+Proteger la información y los sistemas ante ataques.
 
-## Pregunta de lección:
-
+📚 Pregunta de lección:
 ¿Qué significa el término SOC?
 
-## Respuesta:
-
-Security Operations Center (Centro de Operaciones de Seguridad)
+✅ Respuesta:
+Security Operations Center (Centro de Operaciones de Seguridad).
