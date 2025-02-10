@@ -7,7 +7,7 @@ Aquí encontrarás toda la información organizada en secciones clave.
 
 ## 📑 Contenido
 
-1. [Introducción al SOC](#1-introducción-al-soc) ✨
+1. [Introducción al SOC](./Introducción.md) ✨
 2. [Propósito y Componentes](#2-propósito-y-componentes) 🛠️
 3. [Personas](#3-personas) 👥
 4. [Proceso](#4-proceso) 🔄
