@@ -13,4 +13,4 @@ Aquí encontrarás toda la información organizada en secciones clave.
 4. [Proceso](https://github.com/JonathanOE08/SOC-Fundamentals/blob/797fcf7422c608dc7314a87aea188664eeae97bc/Proceso) 🔄
 5. [Tecnología](https://github.com/JonathanOE08/SOC-Fundamentals/blob/06a0833d09b6e53c88db8a39c1e2bf81cd041172/Tecnolog%C3%ADa) 💻
 6. [Ejercicio Práctico](https://github.com/JonathanOE08/SOC-Fundamentals/blob/e17b23445ef3644b07e256fc0f617d76e32ac9e6/Ejercicio%20pr%C3%A1ctico%20de%20SOC) 🧪
-7. [Conclusión](#7-conclusión) 🏁
+7. [Conclusión](https://github.com/JonathanOE08/SOC-Fundamentals/blob/5679d82c5ba27892924becaf219a422646554b8f/Conclusi%C3%B3n) 🏁
