@@ -1,0 +1,47 @@
+🔍 Cada rol tiene sus propios procesos. Por ejemplo, los analistas SOC de nivel 1 son los primeros en responder, clasificando alertas y determinando si son perjudiciales.
+Veamos algunos procesos clave en un SOC.
+
+🚨 Triaje de alertas
+✅ Primera acción ante cualquier alerta.
+🔎 Se analiza la alerta para determinar su gravedad y priorizarla.
+📌 Se responde a las 5 W:
+👤 Who (¿Quién?)
+❓ What (¿Qué?)
+🕒 When (¿Cuándo?)
+📍 Where (¿Dónde?)
+🤔 Why (¿Por qué?)
+
+📊 Ejemplo de clasificación de una alerta
+🔴 Alerta: Malware detectado en el host: GEORGE PC
+
+| 🔍 5 W   | 📝 Respuestas  |
+|---------|----------------|
+| **❓ ¿Qué?**  | Se detectó un archivo malicioso en un host de la organización.  |
+| **🕒 ¿Cuándo?**  | 5 de junio de 2024 a las 13:20.  |
+| **📍 ¿Dónde?**  | En el directorio del host: **"GEORGE PC"**.  |
+| **👤 ¿Quién?**  | Detectado para el usuario **George**.  |
+| **🤔 ¿Por qué?**  | El archivo se descargó desde un sitio de software pirateado. George quería usar un software gratis.  |
+
+📄 Informes
+Los informes documentan el análisis y las acciones tomadas, asegurando trazabilidad y mejora continua dentro del SOC.
+
+## 🛠️ Respuesta a incidentes y análisis forense  
+
+- 🚨 Ante actividades maliciosas críticas, los equipos avanzados inician la respuesta a incidentes.  
+- 🛑 Incluye acciones detalladas de **contención, erradicación y recuperación**.  
+- 🔬 El análisis forense determina la **causa raíz** del incidente mediante el examen de artefactos en sistemas o redes.  
+
+## 🎯 Preguntas de lección  
+
+📌 Al final de la investigación, el equipo SOC descubrió que **John había intentado robar los datos del sistema**.  
+❓ ¿A qué "W" de las 5 W responde esto?  
+
+**👤 ¿Quién? / Who**  
+
+---  
+
+📌 El equipo SOC detectó una **gran cantidad de exfiltración de datos**.  
+❓ ¿A qué "W" de las 5 W responde esto?  
+
+**❓ ¿Qué? / What**  
+
