@@ -1,0 +1,40 @@
+🛡️ Tecnología en un SOC  
+
+La tecnología es clave para un SOC eficiente, ya que centraliza información y automatiza la detección y respuesta, reduciendo el esfuerzo manual.  
+
+🔍 Principales soluciones de seguridad  
+
+📊 SIEM (Security Information and Event Management)  
+
+- 📡 Recopila registros de dispositivos y aplicaciones en la red.  
+- ⚠️ Configura reglas de detección para identificar actividades sospechosas.  
+- 🔗 Correlaciona datos de múltiples fuentes para generar alertas.  
+- 🧠 Herramientas modernas incluyen análisis del comportamiento del usuario, inteligencia de amenazas y aprendizaje automático.  
+- ❌ Limitación: Solo proporciona capacidades de detección.  
+
+🖥️ EDR (Endpoint Detection and Response)  
+
+- 👀 Brinda visibilidad en tiempo real e histórica de actividades en los dispositivos (endpoints).  
+- ⚡ Permite investigar y responder a amenazas con rapidez.  
+- 🤖 Opera directamente en los endpoints y automatiza respuestas.  
+
+🔥 Firewall  
+
+- 🚧 Protege la red al filtrar tráfico no autorizado entre redes internas y externas.  
+- 🔍 Monitorea el tráfico entrante y saliente.  
+- 🛑 Utiliza reglas de detección para identificar y bloquear tráfico sospechoso antes de que llegue a la red interna.  
+
+🛠️ Otras soluciones de seguridad  
+
+- 🔹 Antivirus, EPP, IDS/IPS, XDR, SOAR: Complementan la protección según las necesidades específicas.  
+- 🎯 La elección de estas herramientas depende de la superficie de amenaza y los recursos disponibles en la organización.  
+
+🎯 Preguntas de lección  
+
+📌 ¿Qué solución de seguridad monitoriza el tráfico entrante y saliente de la red?  
+
+🔥 Firewall  
+
+📌 ¿Las soluciones SIEM se centran principalmente en detectar y alertar sobre incidentes de seguridad? (sí/no)  
+
+✅ Sí  
